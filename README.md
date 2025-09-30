@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌤️ Weather Forecast App
 
 A modern, responsive weather application built with HTML, CSS, and JavaScript that uses the OpenWeather API to provide real-time weather information and 5-day forecasts.
@@ -150,3 +151,7 @@ If you encounter any issues or have questions:
 ---
 
 **Enjoy checking the weather! 🌤️**
+=======
+# Weather-Forecasting
+A responsive web page that shows real-time weather and forecasts using the OpenWeather API.
+>>>>>>> 7301b462d3c6d6950337d49f61989bf288ec2fce
